@@ -1,0 +1,4 @@
+f_s.png 3
+f_m.png 5
+f_l.png 7
+f_mega.png

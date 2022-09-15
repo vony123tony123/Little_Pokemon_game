@@ -1,0 +1,4 @@
+w_s.png 3
+w_m.png 5
+w_l.png 7
+w_mega.png
